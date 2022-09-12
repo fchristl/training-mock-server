@@ -7,3 +7,12 @@
 2022-09-12 10:22:30 [32minfo[39m: Handlebar helpers registration completed 
 2022-09-12 10:22:30 [32minfo[39m: No middleware injection. 
 2022-09-12 10:22:30 [32minfo[39m: Worker sharing HTTP server at http://localhost:8080 ⛳ 
+2022-09-12 15:30:18 [32minfo[39m: [6378] Master Started 
+2022-09-12 15:30:18 [32minfo[39m: Cluster metrics server listening to 5555, metrics exposed on http://localhost:5555/metrics . Set a negative value for config.monitoring.port to enable monitoring  
+2022-09-12 15:30:19 [32minfo[39m: CORS enabled for http://localhost:3000, http://localhost:3001, http://localhost:5000, http://localhost:4200, http://localhost:4210 
+2022-09-12 15:30:19 [32minfo[39m: [6401] Worker started 
+2022-09-12 15:30:19 [32minfo[39m: Handlebar helpers registration started 
+2022-09-12 15:30:19 [33mwarn[39m: Code Injection is disabled. Helpers such as code, inject, pg, csv and functionalities such as external helpers, will not work. 
+2022-09-12 15:30:19 [32minfo[39m: Handlebar helpers registration completed 
+2022-09-12 15:30:19 [32minfo[39m: No middleware injection. 
+2022-09-12 15:30:19 [32minfo[39m: Worker sharing HTTP server at http://localhost:8080 ⛳ 
