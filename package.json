@@ -1,0 +1,13 @@
+{
+  "name": "mock-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+	  "start": "camouflage --config config.yml"
+  },
+  "devDependencies": {
+    "camouflage-server": "^0.9.0",
+    "cors": "^2.8.5"
+  }
+}
